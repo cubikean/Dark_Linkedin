@@ -28,6 +28,8 @@
 	--system-gray-70: #999999;
 	--system-gray-80: #BDBDBD;
 	--system-gray-90: #DEDEDE;
+    --color-brand-accent-1 :gold;
+    --color-brand-accent-1-active : #80753e;
 	--cool-gray-10: #0d1117;
 	--cool-gray-20: #0d1117;
 	--cool-gray-30: #23190E;
@@ -139,4 +141,10 @@
 }
 .learning-recommendation-item__play-icon {
     border: 2px solid #fff;
+}
+.scaffold-layout__main span:hover{
+    color: #999999;
+}
+.scaffold-layout__main a:hover{
+    color: #999999;
 }
